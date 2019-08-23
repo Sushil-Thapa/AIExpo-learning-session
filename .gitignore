@@ -1,0 +1,39 @@
+# compiled source #
+########################
+*.pyc
+
+# logs, environement files and  databases #
+########################
+*.log
+*.sqlite3
+logs/*
+
+# Virtual Env #
+###############
+
+venv/
+
+# OS generated files #
+#######################
+.idea
+
+# Data #
+########################
+*.h5
+
+# Unit test / coverage reports #
+########################
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+.__pycache__/
+
+# Notebook Checkpoints
+.ipynb_checkpoints
