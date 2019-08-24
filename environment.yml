@@ -9,5 +9,6 @@ dependencies:
   - pandas
   - python=3.6.6
   - scikit-learn
+  - jupyterlab
   - pip:
       - scikit-surprise

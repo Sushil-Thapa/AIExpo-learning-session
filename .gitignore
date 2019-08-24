@@ -37,3 +37,5 @@ coverage.xml
 
 # Notebook Checkpoints
 .ipynb_checkpoints
+
+Session-3-DeepLearning/data/*
