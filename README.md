@@ -4,5 +4,5 @@ Topics Covered:
 
 - Machine Learning
 - Deep Learning
-- Computer Vision
+- [Computer Vision](Session-4-ComputerVision/) by [Sushil Thapa](https://thapasushil.com)
 - Natural Language Processing
